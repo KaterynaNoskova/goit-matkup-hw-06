@@ -704,7 +704,7 @@ input:-webkit-autofill:focus {
     line-height: calc(14/12);
     letter-spacing: 0.01em;
     color: #8E8F99;
-    padding-bottom: 4px;
+    margin-bottom: 4px;
 }
 .input-wrap {
     position: relative;
